@@ -10,7 +10,7 @@ https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechi
 https://glossary.istqb.org/hu_HU/search?term=&exact_matches_first=true
 
 # GOOGLE DRIVE
-https://drive.google.com/drive/folders/1NKUe140MVZY8VdNfDxF1mvuK8UXD-Yud?usp=sharing
+[https://drive.google.com/drive/folders/1NKUe140MVZY8VdNfDxF1mvuK8UXD-Yud?usp=sharing](https://drive.google.com/drive/folders/1e0gaCsBYlNiM_j3l8qEu3Go6GWXW78tZ?usp=sharing)
 
 # CTFL - Vizsga
 ### 1. Az alábbi állítások közül melyik ír le érvényes tesztcélt?
